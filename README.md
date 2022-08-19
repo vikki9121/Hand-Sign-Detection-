@@ -6,3 +6,11 @@ In this sign language recognition project, we create a sign detector, which dete
 We have developed this project using OpenCV and Keras modules of python.
 # American Sign Language alphabet
 ![sign](https://user-images.githubusercontent.com/111560544/185643118-9a0592e0-5e48-412e-9e0f-b5af3815d4df.jpg)
+
+# Prerequisites
+- Python (3.7.4)
+- IDE (PyCharm )
+- Numpy (version 1.16.5)
+- cv2 (openCV) (version 3.4.2)
+- Keras (version 2.3.1)
+- -Tensorflow (as keras uses tensorflow in backend and for image preprocessing) (version 2.0.0)
