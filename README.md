@@ -25,3 +25,4 @@ The output will Genrated in 300X300
 
 # Sample Output
 ![Screenshot (1)](https://user-images.githubusercontent.com/111560544/185652229-fd4e8418-f548-4305-8bdb-c6bf24860c9c.png)
+![Screenshot (2)](https://user-images.githubusercontent.com/111560544/185652425-2990a71b-bc51-4618-b004-630a33e0ae3e.png)
