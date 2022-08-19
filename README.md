@@ -9,15 +9,18 @@ We have developed this project using OpenCV and Keras modules of python.
 
 # Prerequisites
 - Python (3.7.4)
-- IDE (PyCharm )
+- IDE (PyCharm)
 - Numpy (version 1.16.5)
 - cv2 (openCV) (version 3.4.2)
 - Keras (version 2.3.1)
 - Tensorflow (as keras uses tensorflow in backend and for image preprocessing) (version 2.0.0)
 
 # To Run The Project
-To collect the image run the ``file to take Pictures
+To collect the image run the `dataCollection.py`file to take Pictures
 By clicking s to save the pictures
 
 
-To run the project cRun the test.py
+To run the project Run `test.py` 
+The output will Genrated in 300X300
+
+Sample Output
