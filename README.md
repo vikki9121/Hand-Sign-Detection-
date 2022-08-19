@@ -24,3 +24,4 @@ To run the project Run `test.py`
 The output will Genrated in 300X300
 
 # Sample Output
+![Screenshot (1)](https://user-images.githubusercontent.com/111560544/185652229-fd4e8418-f548-4305-8bdb-c6bf24860c9c.png)
