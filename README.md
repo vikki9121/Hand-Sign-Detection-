@@ -23,4 +23,4 @@ By clicking s to save the pictures
 To run the project Run `test.py` 
 The output will Genrated in 300X300
 
-Sample Output
+# Sample Output
